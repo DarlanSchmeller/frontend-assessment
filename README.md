@@ -1,4 +1,4 @@
-Frontend Assessment - Project 2
+Frontend Assessment - Project
 ===============================
 
 Project developed during a Frontend class
@@ -68,13 +68,13 @@ frontend-assessment/
 
 2.  Navigate into the project folder:
 
-    `cd avaliacao_2_frontend`
+    `cd frontend-assessment`
 
 3.  Open `index.html` in your browser.
 
 4.  Navigate between pages (`about.html`, `gallery.html`, `contact.html`) to explore the content.
 
-5.  (Optional) Test the contact form --- depending on implementation, you'll see HTML validation or a simple alert.
+5.  (Optional) Test the contact form.
 
 📋 Notes
 --------
